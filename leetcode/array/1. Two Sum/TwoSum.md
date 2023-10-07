@@ -21,7 +21,10 @@ We can return the answer in any order! ☕
 
 Can the solution come up with an algorithm that is less than O(n2) time complexity?
 
-**Constraints:**
+<div align="center">
+  <b> CONSTRAINTS: </b>
+</div>
+
 ```math
 2 <= nums.length <= 10^4
 ```
