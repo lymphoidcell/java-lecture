@@ -1,5 +1,6 @@
 # Two Sum
-## Easy [https://leetcode.com/problems/two-sum/description/]
+## Easy
+
 Given an array of integers **nums** and an integer **target**, return _indices of the two numbers such that they add up to **target**_.
 
 We can assume that each input would have _**exactly**_ **one solution**, and we may not use the same element twice.
@@ -26,3 +27,5 @@ We can return the answer in any order! ☕
 - Only one valid answer exists.
  
 **Follow-up:** Can you come up with an algorithm that is less than O(n^2) time complexity?
+
+source: https://leetcode.com/problems/two-sum/description/
