@@ -19,26 +19,10 @@ We can return the answer in any order! ☕
 > **Input:** nums = [3, 3], target = 6
 > **Output:** [0, 1]
 
-<div align="center">
-  Can the solution come up with an algorithm that is less than O(n^2) time complexity?
-</div>
-
-<div align="center">
-  <b> CONSTRAINTS: </b>
-</div>
-
-```math
-2 <= nums.length <= 10^4
-```
-```math
--10^9 <= nums[i] <= 10^9
-```
-```math
--10^9 <= target <= 10^9
-```
-<div align="center">
-  <b> Only one valid answer exists. </b>
-</div>
-
-
-
+**Constraints:**
+- 2 <= nums.length <= 10^4
+- -10^9 <= nums[i] <= 10^9
+- -10^9 <= target <= 10^9
+- Only one valid answer exists.
+ 
+**Follow-up:** Can you come up with an algorithm that is less than O(n^2) time complexity?
