@@ -57,3 +57,23 @@ Here are some key aspects and functionalities of the **java.util.Scanner** class
       // Handle file not found exception
    }
    ```
+# HelloWorld class code explanation
+The Java code from HelloWorld class earlier is one of examples that used the **java.util.Scanner** class to read input from the console (System.in), and display a personalized greeting message along with the entered name and age. Here is an explanation of the key aspects and functionalities of the Scanner class being used in the code for this session:
+1. **Creating a Scanner Object** &rarr; In the main method, a Scanner object named input is created and initialized to read input from System.in, which represents the standard input stream (usually the keyboard).
+   ```java
+   Scanner scanner = new Scanner(System.in);
+   ```
+2. **Prompting for User Input** &rarr; The program prompts the user for their name and age using System.out.println statements to display messages.
+   ```java
+   System.out.println("Enter a name: ");
+   name = input.nextLine();
+
+   System.out.println("Enter your age: ");
+   age = input.nextLine();
+   ```
+3. **Reading User Input** &rarr; The input.nextLine() method is used to read the user's input as strings. The entered name is stored in the name variable, and the age is stored in the age variable.
+4. **Concatenating and Displaying Output** &rarr; After reading the user's input, the program uses string concatenation to construct a personalized greeting message. It combines the entered name and age with additional text.
+   ```java
+   System.out.println("Hello " + name + "\nWelcome to Java!" + "\nYour age is " + age);
+   ```
+5. **User Interaction** &rarr; The program provides a simple interactive experience by printing messages to the console, waiting for the user to enter their name and age, and then displaying a customized greeting.
