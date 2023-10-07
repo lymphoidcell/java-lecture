@@ -19,7 +19,9 @@ We can return the answer in any order! ☕
 > **Input:** nums = [3, 3], target = 6
 > **Output:** [0, 1]
 
-Can the solution come up with an algorithm that is less than O(n^2) time complexity?
+<div align="center">
+  Can the solution come up with an algorithm that is less than O(n^2) time complexity?
+</div>
 
 <div align="center">
   <b> CONSTRAINTS: </b>
