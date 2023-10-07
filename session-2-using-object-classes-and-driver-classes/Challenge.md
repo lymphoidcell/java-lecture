@@ -1,4 +1,4 @@
-## Java code for Gallongs to Liters Conversion
+## Java code for Gallons to Liters Conversion
 
 Instruction:
 - Use Scanner to read in the number of gallons
