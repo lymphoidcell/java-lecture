@@ -19,6 +19,8 @@ We can return the answer in any order! ☕
 > **Input:** nums = [3, 3], target = 6
 > **Output:** [0, 1]
 
+Can the solution come up with an algorithm that is less than O(n2) time complexity?
+
 **Constraints:**
 ```math
 2 <= nums.length <= 10^4
@@ -34,5 +36,4 @@ We can return the answer in any order! ☕
 </div>
 
 
-**Follow-up:** Can the solution come up with an algorithm that is less than O(n2) time complexity?
 
