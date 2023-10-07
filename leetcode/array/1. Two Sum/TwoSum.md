@@ -1,5 +1,5 @@
 # Two Sum
-## Easy
+## Easy [https://leetcode.com/problems/two-sum/description/]
 Given an array of integers **nums** and an integer **target**, return _indices of the two numbers such that they add up to **target**_.
 
 We can assume that each input would have _**exactly**_ **one solution**, and we may not use the same element twice.
