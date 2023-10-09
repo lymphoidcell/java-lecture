@@ -16,7 +16,7 @@ class Solution {
         int low = 0;
         int high = x;
 
-        while (low<= high) {
+        while (low <= high) {
             int partitionX = (low + high) / 2;
             int partitionY = (x + y + 1) / 2 - partitionX;
 
