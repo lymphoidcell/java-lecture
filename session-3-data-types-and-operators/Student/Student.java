@@ -6,9 +6,6 @@ public class Student {
     private String ssn;
     private double GPA;
 
-    // Constants should be private, static, and final
-    private static final int SCHCODE = 34958;
-
     // Constructor to initialize a Student object
     public Student(int studentID, String name, String ssn, double GPA) {
         this.studentID = studentID;
