@@ -2,7 +2,7 @@ public class ArraysPractice {
     private String name;
 
     public ArraysPractice(String name) {
-        this.name = name;
+        this.name = name; // is this constructor?
     }
 
     public String getName() {
@@ -11,9 +11,9 @@ public class ArraysPractice {
 
     public static void main(String[] args) {
         // Assume studentNames 
-        String[] studentNames = {"Alice", "Bob", "Charlie", "David", "Eva", "Frank", "Grace", "Harry", "Ivy", "Jack", "Kelly", "Liam"};
+        String[] studentNames = {"Daniel", "Phanie", "Josia", "Devita", "Febrina", "Juan", "Zoe", "Nicolaas", "Zafran", "Dhannyo", "Annett", "Matheus", "Roa", "Louis", "Billy"};
 
-        ArraysPractice[][] groups = new ArraysPractice[3][4];  // 3 groups, each with 4 students
+        ArraysPractice[][] groups = new ArraysPractice[3][5];  // 3 groups, each with 5 students (objects)
 
         int x = 0;
         for (int i = 0; i < groups.length; i++) {
