@@ -1,3 +1,4 @@
 {
-    "workbench.colorTheme": "Glance (rainglow)"
+    "workbench.colorTheme": "Glance (rainglow)",
+    "java.debug.settings.onBuildFailureProceed": true
 }
